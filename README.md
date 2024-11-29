@@ -1,7 +1,7 @@
 👩🏽‍💻 Prisha Bhanot
 Chemical & Bioengineering Student | Minor in Computer Science | Aspiring AI in Healthcare Innovator
 
-Welcome to my GitHub! I'm Prisha Bhanot, a passionate engineering student at McMaster University, with a strong foundation in programming, machine learning, and biomedical design. My journey spans impactful projects and leadership roles, blending technical expertise and innovation to solve real-world challenges.
+I'm Prisha Bhanot, a passionate engineering student at McMaster University, with a strong foundation in programming, machine learning, and biomedical design. My journey spans impactful projects and leadership roles, blending technical expertise and innovation to solve real-world challenges.
 
 🌟 About Me
 
