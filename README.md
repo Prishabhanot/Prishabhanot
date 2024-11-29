@@ -12,7 +12,7 @@ Surgical Instrument Transfer: Programmed robotic arms in Quanser for precision t
 
 Portable Grabber Arm: Designed ergonomic biomedical tools for clients with disabilities.
 
-🎓 Certifications: Agile Software Development, SQL Programming, First Aid & CPR-C, French Efficiency.
+🎓 Certifications: Agile Software Development, SQL Programming, CSS & HTML Esstential Training, First Aid & CPR-C, French Efficiency.
 
 🏆 Leadership: Competition Lead at Ontario Engineering Competition and Biomedical Design Engineer for MED-T.
 
