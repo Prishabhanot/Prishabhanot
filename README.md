@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm Prisha Bhanot, a passionate engineering student at McM
 🛠️ Technical Skills: Python, MATLAB, SQL, HTML, CSS, OpenCV, TensorFlow, PyTorch, AutoCAD, and more.
 
 💡 Projects:
-
 Fall Detection System: Used MediaPipe and OpenCV to create a real-time alert system for fall detection.
 
 Surgical Instrument Transfer: Programmed robotic arms in Quanser for precision tasks.
