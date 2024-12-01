@@ -3,7 +3,7 @@ Chemical & Bioengineering Student | Minor in Computer Science | Aspiring AI in H
 
 I'm Prisha Bhanot, a passionate engineering student at McMaster University, with a strong foundation in programming, machine learning, and biomedical design. My journey spans impactful projects and leadership roles, blending technical expertise and innovation to solve real-world challenges.
 
-🛠️ Technical Skills: Python, MATLAB, SQL, HTML, CSS, OpenCV, TensorFlow, PyTorch, AutoCAD, and more.
+🛠️ Technical Skills: Python, MATLAB, SQL, HTML, CSS, OpenCV, TensorFlow, PyTorch, AutoCAD, AutoDesk Inventor and more.
 
 💡 Projects:
 Fall Detection System: Used MediaPipe and OpenCV to create a real-time alert system for fall detection.
