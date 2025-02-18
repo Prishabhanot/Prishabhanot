@@ -34,7 +34,7 @@ Chemical & Bioengineering Student @ McMaster University | Minor in Computer Scie
 [![Scikit-Image](https://img.shields.io/badge/-Scikit%20Image-FF6F00?logo=python&logoColor=white)](https://scikit-image.org/)
 [![Statsmodels](https://img.shields.io/badge/-Statsmodels-3776AB?logo=python&logoColor=white)](https://www.statsmodels.org/)
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)=
-[![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
 
 ## 🎓 Certifications
 - **Agile Software Development**
