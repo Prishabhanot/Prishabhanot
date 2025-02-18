@@ -21,7 +21,19 @@ Chemical & Bioengineering Student @ McMaster University | Minor in Computer Scie
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)](https://www.linux.org/)
-
+[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)](https://www.scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![NLTK](https://img.shields.io/badge/-NLTK-3776AB?logo=python&logoColor=white)](https://www.nltk.org/)
+[![spaCy](https://img.shields.io/badge/-spaCy-3776AB?logo=python&logoColor=white)](https://spacy.io/)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=hugging-face&logoColor=white)](https://huggingface.co/)
+[![Dask](https://img.shields.io/badge/-Dask-3E4C59?logo=dask&logoColor=white)](https://dask.org/)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-EC4242?logo=xgboost&logoColor=white)](https://xgboost.ai/)
+[![LightGBM](https://img.shields.io/badge/-LightGBM-00ACD7?logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/-CatBoost-F5B700?logo=catboost&logoColor=white)](https://catboost.ai/)
+[![Scikit-Image](https://img.shields.io/badge/-Scikit%20Image-FF6F00?logo=python&logoColor=white)](https://scikit-image.org/)
+[![Statsmodels](https://img.shields.io/badge/-Statsmodels-3776AB?logo=python&logoColor=white)](https://www.statsmodels.org/)
+[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
 
 ## 🎓 Certifications
 - **Agile Software Development**
@@ -30,7 +42,7 @@ Chemical & Bioengineering Student @ McMaster University | Minor in Computer Scie
 - **First Aid & CPR-C**
 - **French Efficiency**
 
-## 🏆 Leadership
+## 🌟 Leadership
 - **Competition Lead** at Ontario Engineering Competition
 - **Software Engineer** for MED-T
 - **Web Developer** for iGEM
