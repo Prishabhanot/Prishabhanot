@@ -1,7 +1,5 @@
 # 👩🏽‍💻 Prisha Bhanot
-Chemical & Bioengineering Student | Minor in Computer Science | Aspiring AI in Healthcare Innovator
-
-I'm Prisha Bhanot, a passionate engineering student at McMaster University, with a strong foundation in programming, machine learning, and biomedical design. My journey spans impactful projects and leadership roles, blending technical expertise and innovation to solve real-world challenges.
+Chemical & Bioengineering Student @ McMaster University | Minor in Computer Science | Aspiring AI in Healthcare Innovator
 
 ## 🛠️ Technical Skills
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
