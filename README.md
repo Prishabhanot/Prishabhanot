@@ -24,10 +24,6 @@ I'm Prisha Bhanot, a passionate engineering student at McMaster University, with
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)](https://www.linux.org/)
 
-## 💡 Projects
-- **Fall Detection System**: Used MediaPipe and OpenCV to create a real-time alert system for fall detection.
-- **Surgical Instrument Transfer**: Programmed robotic arms in Quanser for precision tasks.
-- **Portable Grabber Arm**: Designed ergonomic biomedical tools for clients with disabilities.
 
 ## 🎓 Certifications
 - **Agile Software Development**
@@ -38,7 +34,8 @@ I'm Prisha Bhanot, a passionate engineering student at McMaster University, with
 
 ## 🏆 Leadership
 - **Competition Lead** at Ontario Engineering Competition
-- **Biomedical Design Engineer** for MED-T
+- **Software Engineer** for MED-T
+- **Web Developer** for iGEM
 
 ## 🎯 Future Goals
 My vision is to harness the power of AI in healthcare, focusing on creating innovative diagnostic tools and personalized treatments for neurodegenerative diseases like Parkinson's and Alzheimer's.
